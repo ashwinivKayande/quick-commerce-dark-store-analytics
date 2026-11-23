@@ -29,3 +29,6 @@ conditional-format heatmap, drill-through, page navigation.
 - Champions spend Rs 2,114 on average vs Rs 394 for Lost customers.
 
 Note: all data is synthetic; findings illustrate the analysis approach.
+
+## Demo
+Power BI file and demo video: [https://drive.google.com/drive/folders/11fHGBOuYCuk2E4C6_iPZBKW7QhdxuqOU?usp=sharing]
