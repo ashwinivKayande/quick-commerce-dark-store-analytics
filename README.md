@@ -12,9 +12,6 @@ Python, MySQL 8, Power BI Desktop (DAX), Power Query.
 
 ## Files
 - generate_data.py : creates the dataset (seed 42, reproducible)
-- sql/01_schema.sql : database, tables, keys, indexes
-- sql/02_analysis_queries.sql : 11 analysis queries (CTEs, RANK, LAG, NTILE)
-- sql/03_views.sql : reporting views (orders, sales, inventory, RFM, store P&L)
 - dark_store_dashboard.pbix : Power BI report (6 pages)
 - dark_store_dashboard.pdf : dashboard export
 
